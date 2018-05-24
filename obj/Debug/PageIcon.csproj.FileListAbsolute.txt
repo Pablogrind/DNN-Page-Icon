@@ -5,3 +5,10 @@ C:\pablo\proyectos\Panter.Go2Green.App\FUENTES\Web\Dnn.Platform\DNN Platform\bin
 C:\pablo\proyectos\Panter.Go2Green.App\FUENTES\Web\Dnn.Platform\DNN Platform\Modules\PageIcon\obj\Debug\PageIcon.csproj.CopyComplete
 C:\pablo\proyectos\Panter.Go2Green.App\FUENTES\Web\Dnn.Platform\DNN Platform\Modules\PageIcon\obj\Debug\PageIcon.dll
 C:\pablo\proyectos\Panter.Go2Green.App\FUENTES\Web\Dnn.Platform\DNN Platform\Modules\PageIcon\obj\Debug\PageIcon.pdb
+C:\Users\Juan pablo Lopez\Desktop\DNN 9.2.0\Dnn.Platform\DNN Platform\bin\PageIcon.dll
+C:\Users\Juan pablo Lopez\Desktop\DNN 9.2.0\Dnn.Platform\DNN Platform\bin\PageIcon.pdb
+C:\Users\Juan pablo Lopez\Desktop\DNN 9.2.0\Dnn.Platform\DNN Platform\Modules\PageIcon\obj\Debug\PageIcon.csprojAssemblyReference.cache
+C:\Users\Juan pablo Lopez\Desktop\DNN 9.2.0\Dnn.Platform\DNN Platform\Modules\PageIcon\obj\Debug\PageIcon.csproj.CoreCompileInputs.cache
+C:\Users\Juan pablo Lopez\Desktop\DNN 9.2.0\Dnn.Platform\DNN Platform\Modules\PageIcon\obj\Debug\PageIcon.csproj.CopyComplete
+C:\Users\Juan pablo Lopez\Desktop\DNN 9.2.0\Dnn.Platform\DNN Platform\Modules\PageIcon\obj\Debug\PageIcon.dll
+C:\Users\Juan pablo Lopez\Desktop\DNN 9.2.0\Dnn.Platform\DNN Platform\Modules\PageIcon\obj\Debug\PageIcon.pdb
