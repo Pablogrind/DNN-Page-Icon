@@ -1,0 +1,7 @@
+C:\pablo\proyectos\Panter.Go2Green.App\FUENTES\Web\Dnn.Platform\DNN Platform\Modules\PageIcon\obj\Debug\PageIcon.csprojAssemblyReference.cache
+C:\pablo\proyectos\Panter.Go2Green.App\FUENTES\Web\Dnn.Platform\DNN Platform\Modules\PageIcon\obj\Debug\PageIcon.csproj.CoreCompileInputs.cache
+C:\pablo\proyectos\Panter.Go2Green.App\FUENTES\Web\Dnn.Platform\DNN Platform\bin\PageIcon.dll
+C:\pablo\proyectos\Panter.Go2Green.App\FUENTES\Web\Dnn.Platform\DNN Platform\bin\PageIcon.pdb
+C:\pablo\proyectos\Panter.Go2Green.App\FUENTES\Web\Dnn.Platform\DNN Platform\Modules\PageIcon\obj\Debug\PageIcon.csproj.CopyComplete
+C:\pablo\proyectos\Panter.Go2Green.App\FUENTES\Web\Dnn.Platform\DNN Platform\Modules\PageIcon\obj\Debug\PageIcon.dll
+C:\pablo\proyectos\Panter.Go2Green.App\FUENTES\Web\Dnn.Platform\DNN Platform\Modules\PageIcon\obj\Debug\PageIcon.pdb

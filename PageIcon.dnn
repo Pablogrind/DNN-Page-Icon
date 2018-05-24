@@ -1,0 +1,95 @@
+<dotnetnuke type="Package" version="5.0">
+  <packages>
+    <package name="PageIcon" type="Module" version="00.00.01">
+      <friendlyName>PageIcon</friendlyName>
+      <description>Change "Icon File Large" and "Icon File" in any Tab of DNN9+</description>
+      <iconFile>~/Images/icon_extensions_32px.png</iconFile>
+      <owner>
+        <name>panter.co</name>
+        <organization>Panter.com</organization>
+        <url>http://www.panter.co/</url>
+        <email>pablo@panter.com</email>
+      </owner>
+      <license />
+      <releaseNotes />
+      <azureCompatible>true</azureCompatible>
+      <dependencies>
+        <dependency type="CoreVersion">07.00.02</dependency>
+      </dependencies>
+      
+      <components>
+        <component type="Script">
+          <scripts>
+            <basePath>DesktopModules\PageIcon</basePath>
+            <script type="Install">
+              <path>Providers\DataProviders\SqlDataProvider</path>
+              <name>00.00.01.SqlDataProvider</name>
+              <version>00.00.01</version>
+            </script>
+            <script type="UnInstall">
+              <path>Providers\DataProviders\SqlDataProvider</path>
+              <name>Uninstall.SqlDataProvider</name>
+              <version>00.00.01</version>
+            </script>
+          </scripts>
+        </component>
+
+        <component type="ResourceFile">
+          <resourceFiles>
+            <basePath>DesktopModules/PageIcon</basePath>
+            <resourceFile>
+              <name>Resources.zip</name>
+            </resourceFile>
+          </resourceFiles>
+        </component>
+
+        <component type="Module">
+          <desktopModule>
+            <moduleName>PageIcon</moduleName>
+            <foldername>PageIcon</foldername>
+            <businessControllerClass></businessControllerClass>
+            <supportedFeatures>
+              <supportedFeature>IPortable</supportedFeature>
+              <supportedFeature>IUpgradeable</supportedFeature>
+            </supportedFeatures>
+            <moduleDefinitions>
+              <moduleDefinition>
+                <friendlyName>PageIcon</friendlyName>
+                <defaultCacheTime>0</defaultCacheTime>
+                <moduleControls>
+                  <moduleControl>
+                    <controlKey />
+                    <controlSrc>DesktopModules/PageIcon/Views/View.ascx</controlSrc>
+                    <supportsPartialRendering>False</supportsPartialRendering>
+                    <controlTitle />
+                    <controlType>View</controlType>
+                    <iconFile />
+                    <helpUrl />
+                    <viewOrder>0</viewOrder>
+                  </moduleControl>
+                </moduleControls>
+              </moduleDefinition>
+            </moduleDefinitions>
+          </desktopModule>
+          <eventMessage>
+            <processorType>DotNetNuke.Entities.Modules.EventMessageProcessor, DotNetNuke</processorType>
+            <processorCommand>UpgradeModule</processorCommand>
+            <attributes>
+              <businessControllerClass></businessControllerClass>
+              <desktopModuleID>[DESKTOPMODULEID]</desktopModuleID>
+              <upgradeVersionsList>00.00.01</upgradeVersionsList>
+            </attributes>
+          </eventMessage>
+        </component>
+        <component type="Assembly">
+          <assemblies>
+            <assembly>
+              <name>PageIcon.dll</name>
+              <path>bin</path>
+            </assembly>
+          </assemblies>
+        </component>
+      </components>
+    </package>
+  </packages>
+</dotnetnuke>
